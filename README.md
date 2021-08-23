@@ -1,9 +1,5 @@
 # stakater-nordmart-review-ui
 Management interface for reviews
-<<<<<<< HEAD
-=======
-asd test
->>>>>>> nebojsa-test
  
 ## Build tools
 
